@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <!-- css 文件 -->
+    <link rel="stylesheet" href="https://cdn.bootcss.com/foundation/5.5.3/css/foundation.min.css">
+
+    <!-- jQuery 库 -->
+    <script src="https://cdn.bootcss.com/jquery/3.2.1/jquery.min.js"></script>
+
+    <!-- JavaScript 文件 -->
+    <script src="https://cdn.bootcss.com/foundation/5.5.3/js/foundation.min.js"></script>
+
+    <!-- modernizr.js 文件 -->
+    <script src="https://cdn.bootcss.com/modernizr/2.8.3/modernizr.min.js"></script>
+    <meta charset="utf-8" />
+    <title>Downloads|仔仔下载站</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="baidu-site-verification" content="dfffHzhfGX" />
+    <meta name="author" content="仔仔工作室，QxStudio.">
+    <meta name="copyright" content="仔仔工作室，QxStudio.">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon.ico">
+    <script>
+        $(document).ready(function () {
+            $(document).foundation();
+        })
+    </script>
+    <style>
+        body {
+            background: url(http://zaimcserver.byethost5.com/sky_from_netease.jpg) no-repeat center top;
+            background-size: 100% 100% cover contain;
+            font-family: 微软雅黑,sans-serif;
+        }
+    </style>
+    <!--[if lt IE 9]>
+    <script src="https://cdn.bootcss.com/html5shiv/r29/html5.min.js"></script>
+    <[endif]-->
+</head>
+<body>
+    <div style="padding:20px">
+        <h2>Mars客户端<a href="http://zaimcserver.byethost5.com/Mars.7z" class="button info" role="button">下载</a></h2>
+        <p>有了客户端，你才可以在Mars服玩耍。</p>
+    </div>
+    <div style="padding:20px">
+        <h2>Java8<a href="http://zaimcserver.byethost5.com/java8.7z" class="button info" role="button">下载</a></h2>
+        <p>必要的Java平台，没了它，你也无法在Mars服玩耍。</p>
+    </div>
+    <div style="padding:20px">
+        <h2>EasyFile®<a href="http://zaimcserver.byethost5.com/EasyFile.7z" class="button info" role="button">下载</a></h2>
+        <p>简洁的文件读取器，有和记事本一样的功效。</p>
+    </div>
+    <div style="padding:20px">
+        <h2>圆柱圆锥表面积体积计算器<a href="http://zaimcserver.byethost5.com/圆柱与圆锥体积表面积计算器.7z" class="button info" role="button">下载</a></h2>
+        <p>六年级苦逼毕业生必备（悄悄告诉你，如果底面积不能整除3，圆锥的体积就会出错）</p>
+    </div>
+
+</body>
+</html>
