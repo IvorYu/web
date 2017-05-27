@@ -37,6 +37,39 @@
     <[endif]-->
 </head>
 <body>
+    <!--顶部导航栏top-bar-->
+    <nav class="top-bar" data-topbar>
+        <ul class="title-area">
+            <li class="name">
+                <h1>
+                    <a href="index.html">ZaiMarsServer</a>
+                </h1>
+            </li>
+            <li class="toggle-topbar menu-icon">
+                <a href="index.html"><span>菜单</span></a>
+            </li>
+        </ul>
+
+        <section class="top-bar-section">
+            <ul class="left">
+                <li>
+                    <a href="http://zaimcserver.byethost5.com/">主页</a>
+                </li>
+                <li>
+                    <a href="http://qxstudio.loveslife.biz" target="_blank" style="text-decoration:none;">工作室官网</a>
+                </li>
+                <li class="active">
+                    <a href="#">下载站</a>
+                </li>
+                <li>
+                    <a href="#">服主：陈天泽</a>
+                </li>
+                <li>
+                    <a href="#">©Copyright 2017 QxStudio. Some rights reserved.</a>
+                </li>
+            </ul>
+        </section>
+    </nav>
     <div style="padding:20px">
         <h2>Mars客户端<a href="http://zaimcserver.byethost5.com/Mars.7z" class="button info" role="button">下载</a></h2>
         <p>有了客户端，你才可以在Mars服玩耍。</p>
